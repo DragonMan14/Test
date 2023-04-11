@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 709758c18e426a84cbad3ce689aa9e90, type: 3}
+  m_Name: Test Quest
+  m_EditorClassIdentifier: 
+  questActive: 0
+  enemiesKilled: {fileID: 11400000, guid: 9df3e633b5a8fd540a71d269cae2d54b, type: 2}
+  enemyAmountToKill: 2
+  enemyType: 0

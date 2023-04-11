@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 11c37289839f82149a7dd0836ee8947f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - maxHealth: {instanceID: 0}
+  - enemiesKilled: {fileID: 11400000, guid: 9df3e633b5a8fd540a71d269cae2d54b, type: 2}
+  - deathParticles: {fileID: 2130332391166939369, guid: 2761af2ec1dc0554985ec5e597315903, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
